@@ -1,0 +1,25 @@
+{
+  "name": "zoruabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "console": "nodemon bot/bot.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "@mkody/twitch-emoticons": "^2.3.1",
+    "axios": "^0.26.1",
+    "dotenv": "^10.0.0",
+    "jquery": "^3.6.0",
+    "jquery-migrate": "^3.3.2",
+    "node-hide-console-window": "^2.1.1",
+    "request": "^2.88.2",
+    "require": "^0.4.4",
+    "tmi.js": "^1.8.5",
+    "twitch": "^4.6.6",
+    "twitch-webhooks": "^4.6.6"
+  }
+}

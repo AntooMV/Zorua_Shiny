@@ -1,0 +1,12 @@
+{
+    "username": "Zorua_Shiny",
+    "password": "oauth:hixj353n6jit8wz0hjhak3sibvdlri",
+
+    "CLIENT_ID": "psxojim783pvhhselmz5l4ox859gc3",
+    "CLIENT_SECRET": "3635rbxpfe7v96xgzkhopd707q933c",
+    "GET_TOKEN": "https://id.twitch.tv/oauth2/token",
+
+    "TOKEN": "r02v920yfmhxbd8p7bwhkg9iupo6li",
+    
+    "bannedTerms":["nigga", "niga", "niggers", "nigger", "nigah", "niggah", "niggers"]
+}
